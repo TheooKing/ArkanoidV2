@@ -5,6 +5,7 @@ A game made with python
 ## Controls 
 
 left arrow = move left
+
 right arrow = move right
 
 ## Goal of the game
