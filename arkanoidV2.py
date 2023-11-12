@@ -244,10 +244,10 @@ while running[0]:
 
         for i in monsters:
             i.display()
-        platform.display()
         ball.fill()
-        ball.outline()
+        # ball.outline() # for debug porpuses
         ball.display()
+        platform.display()
         timer.drawtext(0,0)
 
         #updates the screen
