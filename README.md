@@ -9,10 +9,10 @@ A game made with python
 
 ## Controls 
 
-Left arrow == move left
+Left arrow == move the platform to the left
 
-Right arrow == move right
+Right arrow == move the platform to the right
 
 ## Goal of the game
 
-By moving the platform you avoid the ball falling to the void, or else you lose. 
+By moving the platform you avoid the ball falling to the void.
